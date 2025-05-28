@@ -65,6 +65,7 @@ CAPITAL UNIVERSITY OF ECONOMICS AND FINANCE ∙ 2019-2023
 > - **Base de données pour un site touristique** : Conception d'une structure de base de données MySQL, modélisation avec diagramme ER, réalisation de requêtes avancées (JOIN, sous-requêtes)
 > - **Backend d'un site e-commerce** : Développement des fonctionnalités principales, incluant la gestion des utilisateurs, des produits et des commandes. Gestion de version avec Git/GitHub.
 > - **Application de gestion d’événements** : Développement d’une application web complète (Spring Boot, Spring MVC, Spring Data JPA), gestion des conférences, inscriptions, activités, validation des formulaires en JavaScript, gestion de version avec Git/GitHub.
+> - **Réseau social web “Socialite”** : Développement complet d’un réseau social fonctionnel. Architecture Spring Boot (MVC, JPA, SQLite), moteur de template Thymeleaf, intégration d’un template Bootstrap sans altérer la structure. Fonctionnalités : création de posts avec images, commentaires, réactions personnalisées, gestion de groupes, événements, messagerie privée, système de notifications. Adaptation des composants dynamiques aux contraintes strictes de l’interface Bootstrap.
 
 ---
 
