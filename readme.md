@@ -92,7 +92,7 @@ https://www.linkedin.com/in/zhang-kaiyang/
 
 ---
 
-**Projets informatiques**
+### Projets informatiques
 
 **2023 – 2024**
 
@@ -109,6 +109,15 @@ https://www.linkedin.com/in/zhang-kaiyang/
 　– gestion de groupes, événements, messagerie privée et notifications  
 　– adaptation dynamique des composants tout en respectant une structure front-end existante
 
+
+---
+### Projets personnels – Système d’estimation de comptes de jeu (Identity V)
+>2025
+>- Conception et développement d’un crawler Python pour extraire des données complexes et imbriquées sur des comptes de jeu en ligne (non-commercial, à des fins d’apprentissage).  
+>- Modélisation d’une base de données multi-tables pour structurer des attributs hétérogènes (skins, héros, monnaies, historique).  
+>- Conception d’un algorithme de collecte répartie pour garantir un échantillon représentatif sur différentes gammes de prix.  
+>- Développement d’un système de pré-estimation de valeur de compte basé sur des variables quantitatives extraites.  
+>- Projet personnel mené de bout en bout, visant à explorer la modélisation de données irrégulières, le web scraping et l’analyse de valeur.
 
 ---
 
